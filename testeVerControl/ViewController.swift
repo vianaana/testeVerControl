@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     }
     
     func teste1(){
-        print("Teste 1")
+        print("Teste 1 - clone da rita")
     }
     
     func teste2(){
