@@ -24,6 +24,8 @@ class ViewController: UIViewController {
     func teste1(){
         print("Teste 1 - versao inicial da ana")
         
+        
+        
         //codigo
         
         
