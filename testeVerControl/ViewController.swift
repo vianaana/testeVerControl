@@ -23,6 +23,8 @@ class ViewController: UIViewController {
     
     func teste1(){
         print("Esta mensagem estava errada - agora sim, mensagem correta")
+        
+        
     }
     
     func teste2(){
