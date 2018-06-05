@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     }
     
     func teste2(){
-        print("Teste 2")
+        print("Teste 2 - nova mensagem")
     }
     
     
