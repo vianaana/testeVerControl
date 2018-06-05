@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     }
     
     func teste1(){
-        print("Esta mensagem estava errada - agora sim, mensagem correta")
+        print("Esta mensagem estava incorreta - agora sim, mensagem correta")
         
         
     }
