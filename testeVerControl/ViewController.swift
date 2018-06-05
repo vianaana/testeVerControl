@@ -23,11 +23,26 @@ class ViewController: UIViewController {
     
     func teste1(){
         print("Teste 1")
+        
+        //codigo
+        
+        
+        //teste de varias funções
+        teste3()
+        
+        
     }
     
     func teste2(){
         print("Teste 2 - nova mensagem")
     }
+    
+    
+    
+    func teste3(){
+        
+    }
+    
     
     
 
